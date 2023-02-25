@@ -1,1 +1,2 @@
 # Garmin-Recovery-Analysis-Project
+This project combines two things I am very passionate about; fitness/health data and data analysis. I have loved my Garmin watch since getting it two years ago, my favorite feature of it is the health statistics and insight it gives you. These include heart rate, sleep, body battery (recovery), calories, steps, and so many more. I was curious to see which statistic impacts my recovery the most so I downloaded a bunch of data from Garmin and wrangled, cleaned, formatted, and explored the data. 
